@@ -13,4 +13,9 @@
 - [ ] Convert my first blog post into an actual webpage.
 ```
 
+### 画面での確認
+
+- **Code** でブランチを `start-blog` に切り替え、一覧から `day-1.md` を開きます。ファイル表示の右上にある鉛筆アイコンで編集します。
+- 編集欄の上の **Preview** でチェックボックスが3つ並ぶことを確認します。
+
 [原文](https://github.com/skills/communicate-using-markdown/blob/main/.github/steps/2-make-a-task-list.md)

@@ -27,4 +27,9 @@ day-1.md
 ## Review
 ```
 
+### 画面での確認
+
+- **Code** のファイル一覧の左上にある `main` を開き、検索欄に `start-blog` を入力して作成します。左上が `start-blog` に切り替わったら、ファイル一覧の上の **Add file** を選びます。
+- **Preview** はファイル編集欄の上です。大見出し1つと小見出し2つを確認し、右上の **Commit changes…** から作業ブランチに保存します。
+
 [原文](https://github.com/skills/communicate-using-markdown/blob/main/.github/steps/1-add-headings.md)

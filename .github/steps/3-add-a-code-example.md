@@ -15,4 +15,9 @@ ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output
 ```
 ````
 
+### 画面での確認
+
+- `start-blog` の `day-1.md` を鉛筆アイコンで編集します。`## Review` の直下に例を追加します。
+- **Preview** で説明文とコードが別々に表示され、コマンド部分がコードブロックになっていることを確認します。
+
 [原文](https://github.com/skills/communicate-using-markdown/blob/main/.github/steps/3-add-a-code-example.md)

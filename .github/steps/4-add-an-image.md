@@ -16,4 +16,9 @@ Markdown では `![代替テキスト](画像URL)` と書きます。サイズ�
 <img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 ```
 
+### 画面での確認
+
+- ファイル右上の鉛筆アイコンを選びます。編集欄の上の **Preview** に切り替え、Markdown 形式で画像が表示されることを確認してから HTML 例に置き換えます。
+- 置き換え後も画像が表示されることを確かめ、右上の **Commit changes…** から `start-blog` に保存します。
+
 [原文](https://github.com/skills/communicate-using-markdown/blob/main/.github/steps/4-add-an-image.md)
