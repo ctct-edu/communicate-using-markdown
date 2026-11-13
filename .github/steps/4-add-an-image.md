@@ -2,7 +2,7 @@
 
 Markdown では `![代替テキスト](画像URL)` と書きます。サイズや位置を指定する場合は HTML の `img` 要素も使えます。
 
-1. `day-1.md` の `Morning Planning` の下に Markdown 形式の画像を追加し、**Preview** で確認します。
+1. `start-blog` ブランチで `day-1.md` を開き、レベル2の見出し `## Morning Planning` の下に Markdown 形式の画像を追加し、**Preview** で確認します。
 2. 同じ画像を、幅と配置を指定する教材の HTML 例に置き換えます。
 3. `start-blog` に直接コミットします。
 
